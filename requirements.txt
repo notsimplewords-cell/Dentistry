@@ -1,0 +1,4 @@
+python>=3.10
+argon2-cffi>=21.3.0
+psycopg2-binary>=2.9.0
+sqlmodel>=0.0.14
